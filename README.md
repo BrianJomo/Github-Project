@@ -15,7 +15,7 @@
 
 ## Description
   
-<p>This is a simple angular app. It contains a form, icons among other mordern website features. It is meant to be used as an application where web visitors can create,uptove,downvote and delete quotes of their choice.</p>
+<p>This is a simple angular app. It contains a form, icons among other mordern website features. It is meant to be used as an application where web visitors can search for various github profiles which is composed of some details and repositories.</p>
 
 ## Installation
 
